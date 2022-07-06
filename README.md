@@ -1,4 +1,4 @@
-DIY ESP8266 Crypto Ticker 
+ESP8266 Crypto Ticker 
 =====
 
 Two implementations based on different APIs:
